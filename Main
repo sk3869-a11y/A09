@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Town Hall - Alzheimer's Info</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>San Joaquin Valley Town Hall</h1>
+  <p>Celebrating our 75th Year</p>
+
+  <div class="nav">
+    <a href="index.html">Home</a>
+    <a href="aboutus.html">About Us</a>
+    <a href="events.html">Events</a>
+    <a href="news.html">News</a>
+    <a href="contact.html">Contact</a>
+    <a href="join.html">Join Us</a>
+  </div>
+
+  <h2>Featured Speaker</h2>
+  <img src="speaker.jpg" alt="Speaker photo" width="200">
+  <p><strong>Dr. Jane Doe</strong> will speak on Alzheimer's awareness and community support.</p>
+  <p>Date: October 21<br>Location: Town Hall Auditorium</p>
+
+</body>
+</html>
+
+
